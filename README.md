@@ -39,10 +39,6 @@ The article draws on interviews with District Councillors, environmental advocat
 - **HTML/CSS/JS** — Self-contained static site with locally hosted assets
 - **GitHub Pages** — Deployment and hosting
 
-## Author
-
-**Erin Chan** ([@ErinChanHK](https://twitter.com/ErinChanHK)) — 2019
-
 ## License
 
 This project contains original journalistic and academic work. All rights reserved by the author. Images sourced from WikiCommons and Flickr are used under their respective licences.
